@@ -37,16 +37,19 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Fare, Version=2.1.0.0, Culture=neutral, PublicKeyToken=ea68d375bf33a7c8, processorArchitecture=MSIL">
-      <HintPath>packages\Fare.2.1.1\lib\net35\Fare.dll</HintPath>
+      <HintPath>packages\Fare.2.1.2\lib\net35\Fare.dll</HintPath>
     </Reference>
-    <Reference Include="Handlebars, Version=1.9.5.0, Culture=neutral, PublicKeyToken=22225d0bf33cd661, processorArchitecture=MSIL">
-      <HintPath>packages\Handlebars.Net.1.9.5\lib\net452\Handlebars.dll</HintPath>
+    <Reference Include="Handlebars, Version=2.0.4.0, Culture=neutral, PublicKeyToken=22225d0bf33cd661, processorArchitecture=MSIL">
+      <HintPath>packages\Handlebars.Net.2.0.4\lib\net46\Handlebars.dll</HintPath>
     </Reference>
-    <Reference Include="Handlebars.Net.Helpers, Version=1.1.0.0, Culture=neutral, PublicKeyToken=00d131fae0c250bc, processorArchitecture=MSIL">
-      <HintPath>packages\Handlebars.Net.Helpers.1.1.0\lib\net452\Handlebars.Net.Helpers.dll</HintPath>
+    <Reference Include="Handlebars.Net.Helpers, Version=2.0.2.0, Culture=neutral, PublicKeyToken=00d131fae0c250bc, processorArchitecture=MSIL">
+      <HintPath>packages\Handlebars.Net.Helpers.2.0.2\lib\net452\Handlebars.Net.Helpers.dll</HintPath>
     </Reference>
-    <Reference Include="JmesPath.Net, Version=1.0.125.0, Culture=neutral, PublicKeyToken=b29d616b7f4faff0, processorArchitecture=MSIL">
-      <HintPath>packages\JmesPath.Net.1.0.125\lib\net45\JmesPath.Net.dll</HintPath>
+    <Reference Include="JmePath.Net.Parser, Version=1.0.153.0, Culture=neutral, PublicKeyToken=b29d616b7f4faff0, processorArchitecture=MSIL">
+      <HintPath>packages\JmesPath.Net.Parser.1.0.153\lib\net45\JmePath.Net.Parser.dll</HintPath>
+    </Reference>
+    <Reference Include="JmesPath.Net, Version=1.0.153.0, Culture=neutral, PublicKeyToken=b29d616b7f4faff0, processorArchitecture=MSIL">
+      <HintPath>packages\JmesPath.Net.1.0.153\lib\net45\JmesPath.Net.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.AspNetCore, Version=2.2.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
       <HintPath>packages\Microsoft.AspNetCore.2.2.0\lib\netstandard2.0\Microsoft.AspNetCore.dll</HintPath>
@@ -207,8 +210,8 @@
     <Reference Include="RandomDataGenerator, Version=1.0.12.0, Culture=neutral, PublicKeyToken=ae5c571d29a3b8d9, processorArchitecture=MSIL">
       <HintPath>packages\RandomDataGenerator.Net.1.0.12\lib\net45\RandomDataGenerator.dll</HintPath>
     </Reference>
-    <Reference Include="Scriban.Signed, Version=2.1.4.0, Culture=neutral, PublicKeyToken=5675fb69b15f2433, processorArchitecture=MSIL">
-      <HintPath>packages\Scriban.Signed.2.1.4\lib\net45\Scriban.Signed.dll</HintPath>
+    <Reference Include="Scriban.Signed, Version=3.4.1.0, Culture=neutral, PublicKeyToken=5675fb69b15f2433, processorArchitecture=MSIL">
+      <HintPath>packages\Scriban.Signed.3.4.1\lib\netstandard2.0\Scriban.Signed.dll</HintPath>
     </Reference>
     <Reference Include="SimMetrics.Net, Version=1.0.5.0, Culture=neutral, PublicKeyToken=c58dc06d59f3391b, processorArchitecture=MSIL">
       <HintPath>packages\SimMetrics.Net.1.0.5\lib\net45\SimMetrics.Net.dll</HintPath>
@@ -237,8 +240,8 @@
     <Reference Include="System.IO.Pipelines, Version=5.0.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
       <HintPath>packages\System.IO.Pipelines.5.0.1\lib\net461\System.IO.Pipelines.dll</HintPath>
     </Reference>
-    <Reference Include="System.Linq.Dynamic.Core, Version=1.0.12.0, Culture=neutral, PublicKeyToken=0f07ec44de6ac832, processorArchitecture=MSIL">
-      <HintPath>packages\System.Linq.Dynamic.Core.1.0.12\lib\net46\System.Linq.Dynamic.Core.dll</HintPath>
+    <Reference Include="System.Linq.Dynamic.Core, Version=1.2.7.0, Culture=neutral, PublicKeyToken=0f07ec44de6ac832, processorArchitecture=MSIL">
+      <HintPath>packages\System.Linq.Dynamic.Core.1.2.7\lib\net46\System.Linq.Dynamic.Core.dll</HintPath>
     </Reference>
     <Reference Include="System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
       <HintPath>packages\System.Memory.4.5.4\lib\net461\System.Memory.dll</HintPath>
