@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WireMockExperiment", "WireMockExperiment.csproj", "{A7905BD4-76F3-4B62-A591-446D4AB154DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7905BD4-76F3-4B62-A591-446D4AB154DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7905BD4-76F3-4B62-A591-446D4AB154DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7905BD4-76F3-4B62-A591-446D4AB154DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7905BD4-76F3-4B62-A591-446D4AB154DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E6BF078-FC6C-43EB-B253-630EF5402EF5}
+	EndGlobalSection
+EndGlobal
